@@ -11,7 +11,7 @@ You will be building a route optimization module, using [NextJs](https://nextjs.
 
 This Repo provides a basic started project.
 
-You'll find a [addresses.json]() file in the mock folder of this repo. Use the addresses provided to create a optimized route (shortest route possible) between all of the addresses mentioned in the file. Vehicle data for route optimization can be made up
+You'll find a [addresses.json](https://github.com/Growing-Good/we-are-hiring/blob/main/mock/addresses.json) file in the mock folder of this repo. Use the addresses provided to create a optimized route (shortest route possible) between all of the addresses mentioned in the file. Vehicle data for route optimization can be made up
 
 Display the optimized route in a MUI datatable on the index page.
 
