@@ -1,0 +1,402 @@
+[
+  {
+    "Address": "Unit 1 Brook Lane, Westbury",
+    "Postcode": "BA13 4ES"
+  },
+  {
+    "Address": "14 Priest Row, Wells",
+    "Postcode": "BA5 2PY"
+  },
+  {
+    "Address": "24 Leigh Road, Westbury",
+    "Postcode": "BA13 3QL"
+  },
+  {
+    "Address": "1 Clarence Terrace, Yeovil",
+    "Postcode": "BA20 1NS"
+  },
+  {
+    "Address": "Flat 4, 22 St James's Square, Bath",
+    "Postcode": "BA1 2TS"
+  },
+  {
+    "Address": "Flat 3, Eagle House, Eagle Lane, Frome",
+    "Postcode": "BA11 1DR"
+  },
+  {
+    "Address": "65 Lower Keyford, Frome",
+    "Postcode": "BA11 4AS"
+  },
+  {
+    "Address": "36 Castle Rise, Castle Cary",
+    "Postcode": "BA7 7ND"
+  },
+  {
+    "Address": "6 Heather Road, Yeovil",
+    "Postcode": "BA21 5NE"
+  },
+  {
+    "Address": "Serrendah, Potters Hill, Crockerton",
+    "Postcode": "BA12 8AS"
+  },
+  {
+    "Address": "12 Trowle, Trowbridge",
+    "Postcode": "BA14 9BJ"
+  },
+  {
+    "Address": "Camlann, Camel Street, Marston Magna",
+    "Postcode": "BA22 8DD"
+  },
+  {
+    "Address": "1B Mile End, London Road, Bath",
+    "Postcode": "BA1 6PT"
+  },
+  {
+    "Address": "Flat 2, Old Chapel, Pera Road, Bath",
+    "Postcode": "BA1 5NJ"
+  },
+  {
+    "Address": "48 Combe Park, Bath",
+    "Postcode": "BA1 3NS"
+  },
+  {
+    "Address": "Camel Leas, Babcary Road, South Barrow",
+    "Postcode": "BA22 7LE"
+  },
+  {
+    "Address": "2 Boundary Close, Midsomer Norton",
+    "Postcode": "BA3 4XB"
+  },
+  {
+    "Address": "4 Frome Road, Bath",
+    "Postcode": "BA2 2QA"
+  },
+  {
+    "Address": "11 Powlett Court, Bath",
+    "Postcode": "BA2 6QJ"
+  },
+  {
+    "Address": "8 Glebe Field, Warminster",
+    "Postcode": "BA12 9PS"
+  },
+  {
+    "Address": "1 Silver Street, Wincanton",
+    "Postcode": "BA9 9AN"
+  },
+  {
+    "Address": "16 St Johns Road, Timsbury",
+    "Postcode": "BA2 0HR"
+  },
+  {
+    "Address": "24 Brassmill Lane, Bath",
+    "Postcode": "BA1 3JE"
+  },
+  {
+    "Address": "2 Balsam Fields, Wincanton",
+    "Postcode": "BA9 9HE"
+  },
+  {
+    "Address": "18 Bond Street, Trowbridge",
+    "Postcode": "BA14 0AS"
+  },
+  {
+    "Address": "24 Roe Avenue, Houndstone",
+    "Postcode": "BA22 8SD"
+  },
+  {
+    "Address": "41 Littleton Green, Semington",
+    "Postcode": "BA14 6LE"
+  },
+  {
+    "Address": "Lynwood, Holton",
+    "Postcode": "BA9 8AN"
+  },
+  {
+    "Address": "4 Sambourne Chase, Warminster",
+    "Postcode": "BA12 8JB"
+  },
+  {
+    "Address": "9 Wimble Stock Way, Yeovil",
+    "Postcode": "BA21 3FF"
+  },
+  {
+    "Address": "9 Tower Hill, Dilton Marsh",
+    "Postcode": "BA13 3SP"
+  },
+  {
+    "Address": "2 The Barton, Rode",
+    "Postcode": "BA11 6PX"
+  },
+  {
+    "Address": "5 Downleaze, Yeovil",
+    "Postcode": "BA20 2SH"
+  },
+  {
+    "Address": "3 Cleveland Cottages, Bath",
+    "Postcode": "BA1 5DD"
+  },
+  {
+    "Address": "3 Maia Terrace, Northload Street, Glastonbury",
+    "Postcode": "BA6 9GW"
+  },
+  {
+    "Address": "The Hollies, 4A Glaston Road, Street",
+    "Postcode": "BA16 0AN"
+  },
+  {
+    "Address": "38 Arundell Close, Westbury",
+    "Postcode": "BA13 3UA"
+  },
+  {
+    "Address": "Cozylee, Sunningdale Road, Yeovil",
+    "Postcode": "BA21 5LU"
+  },
+  {
+    "Address": "3 Compton Close, Shepton Mallet",
+    "Postcode": "BA4 5QZ"
+  },
+  {
+    "Address": "Widcombe House, Church Street, Widcombe",
+    "Postcode": "BA2 6BA"
+  },
+  {
+    "Address": "Unit 3, Dampier Mews, Edward Close, Houndstone Business Park",
+    "Postcode": "BA22 8RU"
+  },
+  {
+    "Address": "3 The Willow Falls, Bath",
+    "Postcode": "BA1 7DG"
+  },
+  {
+    "Address": "Meadow Barn, Woolverton",
+    "Postcode": "BA2 7PR"
+  },
+  {
+    "Address": "18 Hillcrest, Peasedown St John",
+    "Postcode": "BA2 8JL"
+  },
+  {
+    "Address": "The Grange, Church Close, Bathampton",
+    "Postcode": "BA2 6TU"
+  },
+  {
+    "Address": "33 Woodhouse Gardens, Hilperton",
+    "Postcode": "BA14 7QX"
+  },
+  {
+    "Address": "Old Chapel, Green Ore",
+    "Postcode": "BA5 3ES"
+  },
+  {
+    "Address": "2 Cavendish Close, Yeovil",
+    "Postcode": "BA21 5FW"
+  },
+  {
+    "Address": "3 Red Cottages, Corsley",
+    "Postcode": "BA12 7PS"
+  },
+  {
+    "Address": "3 Gloucester Street, Bath",
+    "Postcode": "BA1 2SE"
+  },
+  {
+    "Address": "9 Southwood Cottages, Southwood, Evercreech",
+    "Postcode": "BA4 6LX"
+  },
+  {
+    "Address": "Freedland, Cumnock Road, Castle Cary",
+    "Postcode": "BA7 7HW"
+  },
+  {
+    "Address": "Mellors Cottage, Bath Road, Wells",
+    "Postcode": "BA5 3EW"
+  },
+  {
+    "Address": "Charity Cottage, Babington",
+    "Postcode": "BA11 3RN"
+  },
+  {
+    "Address": "36 High Street, West Coker",
+    "Postcode": "BA22 9AR"
+  },
+  {
+    "Address": "8 Monmouth Place, Bath",
+    "Postcode": "BA1 2AU"
+  },
+  {
+    "Address": "2 Balsam Fields, Wincanton",
+    "Postcode": "BA9 9HE"
+  },
+  {
+    "Address": "73 Portway, Warminster",
+    "Postcode": "BA12 0AA"
+  },
+  {
+    "Address": "9 Chalford, Westbury",
+    "Postcode": "BA13 3RG"
+  },
+  {
+    "Address": "Garage, 7 Calton Walk, Bath",
+    "Postcode": "BA2 4QQ"
+  },
+  {
+    "Address": "4 Forester Lane, Bath",
+    "Postcode": "BA2 6QX"
+  },
+  {
+    "Address": "39 Chaucer Road, Bath",
+    "Postcode": "BA2 4SN"
+  },
+  {
+    "Address": "61 Wingfield Road, Trowbridge",
+    "Postcode": "BA14 9EG"
+  },
+  {
+    "Address": "47 Whitewells Road, Bath",
+    "Postcode": "BA1 6NZ"
+  },
+  {
+    "Address": "141 High Street, Dilton Marsh",
+    "Postcode": "BA13 4DR"
+  },
+  {
+    "Address": "Knoll View Courtyard, Chesterblade Road, Chesterblade",
+    "Postcode": "BA4 4QX"
+  },
+  {
+    "Address": "Top Floor Flat, 15 Belmont, Bath",
+    "Postcode": "BA1 5DZ"
+  },
+  {
+    "Address": "Ashton Mill Farm, Steeple Ashton",
+    "Postcode": "BA14 6HQ"
+  },
+  {
+    "Address": "12 Russett Road, Street",
+    "Postcode": "BA16 0RA"
+  },
+  {
+    "Address": "Glebe Cottage, Mells",
+    "Postcode": "BA11 3PR"
+  },
+  {
+    "Address": "Marsh Barn, Marsh Lane, Henstridge",
+    "Postcode": "BA8 0SF"
+  },
+  {
+    "Address": "1 Hartlake Close, Glastonbury",
+    "Postcode": "BA6 9GF"
+  },
+  {
+    "Address": "4 Sunnybank Road, Westbury",
+    "Postcode": "BA13 3EA"
+  },
+  {
+    "Address": "110 Ruskin Drive, Warminster",
+    "Postcode": "BA12 8SF"
+  },
+  {
+    "Address": "Week Cottage, Combe Hay",
+    "Postcode": "BA2 8RF"
+  },
+  {
+    "Address": "109 Whitewell Road, Frome",
+    "Postcode": "BA11 4EW"
+  },
+  {
+    "Address": "180 Bradford Road, Combe Down",
+    "Postcode": "BA2 5DA"
+  },
+  {
+    "Address": "Unit 1C, Wells Road Trading Estate, Wells Road, Glastonbury",
+    "Postcode": "BA6 9QU"
+  },
+  {
+    "Address": "2 Homestead, Mendip Road, Stoke St Michael",
+    "Postcode": "BA3 5JU"
+  },
+  {
+    "Address": "The Old Police Station, Newtown, West Pennard",
+    "Postcode": "BA6 8NN"
+  },
+  {
+    "Address": "1 Walnut Close, Sutton Veny",
+    "Postcode": "BA12 7BS"
+  },
+  {
+    "Address": "2 Glebe Farm Cottages, Sutton Veny",
+    "Postcode": "BA12 7AS"
+  },
+  {
+    "Address": "14 Carpenters Way, Midsomer Norton",
+    "Postcode": "BA3 4XL"
+  },
+  {
+    "Address": "Upper Westholme Farm, Perridge Hill, Pilton",
+    "Postcode": "BA4 4EN"
+  },
+  {
+    "Address": "Woodville, Bowlish Lane, Bowlish",
+    "Postcode": "BA4 5JE"
+  },
+  {
+    "Address": "Oaklands, Timbrell Street, Trowbridge",
+    "Postcode": "BA14 8PL"
+  },
+  {
+    "Address": "10 Samuel Court, High Street, Templecombe",
+    "Postcode": "BA8 0JN"
+  },
+  {
+    "Address": "2A St Johns Road, Lower Weston",
+    "Postcode": "BA1 3BN"
+  },
+  {
+    "Address": "3 Thorner Way, Chilcompton",
+    "Postcode": "BA3 4WU"
+  },
+  {
+    "Address": "Acheson & Acheson Ltd, Cornbrash Road, Commerce Park",
+    "Postcode": "BA11 2FN"
+  },
+  {
+    "Address": "36 Forest Hill, Yeovil",
+    "Postcode": "BA20 2PH"
+  },
+  {
+    "Address": "3 Ridgeway Gardens, Glastonbury",
+    "Postcode": "BA6 8ER"
+  },
+  {
+    "Address": "40 Hertford Road, Yeovil",
+    "Postcode": "BA21 5UZ"
+  },
+  {
+    "Address": "Ashley Cottage, Bratton",
+    "Postcode": "BA13 4RP"
+  },
+  {
+    "Address": "12 Blake Road, Wells",
+    "Postcode": "BA5 2JB"
+  },
+  {
+    "Address": "10 Southbrook Cottages, Bayford",
+    "Postcode": "BA9 9NL"
+  },
+  {
+    "Address": "4 Charlotte Place, Peasedown St John",
+    "Postcode": "BA2 8DB"
+  },
+  {
+    "Address": "5 Surrey Place, Trowbridge",
+    "Postcode": "BA14 0AW"
+  },
+  {
+    "Address": "14 Lyde Road, Yeovil",
+    "Postcode": "BA21 5AT"
+  },
+  {
+    "Address": "49 Alderton Way, Trowbridge",
+    "Postcode": "BA14 0UP"
+  }
+]
